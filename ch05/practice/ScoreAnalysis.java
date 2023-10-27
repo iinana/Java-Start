@@ -53,5 +53,6 @@ public class ScoreAnalysis {
                     System.out.println("Uncorrect Request");
             }
         }       
+        scn.close();
     }
 }
